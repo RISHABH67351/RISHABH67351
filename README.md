@@ -9,6 +9,15 @@
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
+<a href="https://www.leetcode.com/sumanmalakar0" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sumanmalakar" height="30" width="40" /></a>
+  
+<a href="https://auth.geeksforgeeks.org/user/malakars0411/practice" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="malakars041/practice" height="30" width="40" /></a>
+</p>
+
+
+  
+<a href="https://www.facebook.com/profile.php?id=61557927099135" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sumankumar.malakar.9" height="30" width="40" /></a>
+  
 <a href="https://www.linkden.com/in/rishabh-pandey-29010032a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh mishra" height="30" width="40" /></a>
 
 <a href="https://www.instagram.com/its_me_rishabh_pandey?utm_source=qr&igsh=MWOzbmoYWE3djUzbQ==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simplified_learner" height="30" width="40" /></a>
